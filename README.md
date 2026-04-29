@@ -1,3 +1,4 @@
+
 # 🎭 Playwright Automation Framework
 
 > Senior-grade test automation framework built with **Playwright + TypeScript** for UI and API testing.
